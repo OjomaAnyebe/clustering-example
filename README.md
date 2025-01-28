@@ -52,7 +52,8 @@ Clustering is an unsupervised machine learning technique used to group data poin
 - Gained insights into **unsupervised learning** techniques.
 
 ---
-   
+![download](https://github.com/user-attachments/assets/aac18a88-5851-4dd2-a19c-be1860283338)
+
 ![download](https://github.com/user-attachments/assets/8bdfcbe3-3154-4be3-804b-0dff66525c4d)
 
 ## **How to Use This Repository**
